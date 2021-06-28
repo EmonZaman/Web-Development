@@ -3,7 +3,7 @@
 import os
 import sys
 
-def new():
+def chaeck():
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ProTwo.settings')
